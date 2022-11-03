@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd78180939C46a7274592D3Bb060375BA5e564E21",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd78180939c46a7274592d3bb060375ba5e564e21",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rubbish Dump Cats",
+  "SYMBOL": "RDC",
+  "MAX_SUPPLY": 8000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rubbish-dump-cats",
+  "SHOW_BACKGROUND": true
+}
